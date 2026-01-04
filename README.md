@@ -28,7 +28,7 @@
 ### Languages and Tools:
 [![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git&perline=5)](https://skillicons.dev)
 
-![Asif Taj's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwan119&show_icons=true&theme=dark)
+![Muhammad Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwan119&show_icons=true&theme=dark)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safwan119&theme=dark)
 
