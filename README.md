@@ -1,7 +1,7 @@
  <h1 align="center">Hi 👋, I'm Muhammad Safwan</h1>
 
 - 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend
+- 🌱 I’m currently learning Backend by working on real world project
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: safwanh124@gmail.com
 - ⚡ Fun fact: I'm comming to teen
