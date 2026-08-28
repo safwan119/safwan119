@@ -1,126 +1,161 @@
-<h1 align="center">Hi 👋, I'm Muhammad Safwan</h1>
+<div align="center">
 
-<h3 align="center">Flutter Developer | Mobile App Developer</h3>
+# 👋 Hi, I'm Muhammad Safwan
 
-<p align="center">
-  I build cross-platform mobile applications with Flutter and Dart, with experience in Firebase, REST APIs, backend integrations, authentication, payments, maps, notifications, and real-world application development.
-</p>
+### 🚀 Flutter Developer • Mobile App Developer • Firebase & API Integrator
 
-
-### 👨‍💻 About Me
-
-* 📱 Flutter Developer focused on building cross-platform mobile applications
-* 🚀 Experienced in developing real-world applications using **Flutter & Dart**
-* 🔥 Working with **Firebase, Firestore, Firebase Authentication & FCM**
-* 🌐 Experienced in integrating **REST APIs and third-party services**
-* 💳 Worked with **payment integrations and API-based payment systems**
-* 🗺️ Experience with **Google Maps and location-based features**
-* 🔔 Worked with **push notifications and local notifications**
-* 🧠 Currently improving my **backend development, API architecture, and scalable app development** skills
-* 💬 Ask me about **Flutter, Dart, Firebase, REST APIs, and mobile app development**
-* 📫 Reach me at **[safwanh124@gmail.com](mailto:safwanh124@gmail.com)**
-
-
-### 🛠️ Tech Stack
-
-#### Mobile Development
-
-* Flutter
-* Dart
-* Android
-
-#### Backend & Cloud
-
-* Firebase
-* Cloud Firestore
-* Firebase Authentication
-* Firebase Cloud Messaging
-* REST APIs
-
-#### State Management
-
-* GetX
-* BLoC
-* Provider
-* Riverpod
-
-#### Integrations
-
-* Google Maps
-* Stripe
-* Push Notifications
-* QR Scanner & Generator
-* Payment APIs
-* Third-party APIs
-
-#### Tools
-
-* Git
-* GitHub
-* Android Studio
-* VS Code
-* Postman
-* Firebase Console
-
-
-### 🚀 Featured Projects
-
-* 📱 **QR Scanner & Generator** — QR scanning and generation mobile application
-* 🏢 **Hamari Society** — Society management application
-* 🚌 **Bus Tracking App** — Passenger, Driver and Admin-based tracking system
-* 📈 **X-Cheing** — Trading marketplace application
-* 💰 **Payment Integration Projects** — Applications involving Stripe and API-based payment systems
-
-
-### 📊 What I'm Currently Focusing On
-
-* Advanced Flutter architecture
-* Backend & API development
-* Firebase integrations
-* Clean and scalable application architecture
-* Real-world mobile application development
-* Improving problem-solving and software engineering skills
-
-
-
-### 🌐 Connect With Me
-
-* 💼 LinkedIn: [Muhammad Safwan](https://www.linkedin.com/in/muhammad-safwan-aa8356334/)
-* 🌐 Portfolio: [safwandevhub.netlify.app](https://safwandevhub.netlify.app/)
-* 📧 Email: **[safwanh124@gmail.com](mailto:safwanh124@gmail.com)**
-
-
-<p align="center">
-  ⭐ Feel free to explore my repositories and projects!
-</p>
-
-  
-### Connect with me:
-<div id="badges">
-  <a href="https://github.com/safwan119">
-    <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
-  </a>
-  <a href="https://www.linkedin.com/in/muhammad-safwan-aa8356334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-</a>
-  <a href="https://www.youtube.com/@safwan.coder119">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-</a>
- <a href="https://www.instagram.com/muhammadsafwan619?igsh=MWc4bHpzOXF0Y2dtZQ==">
-    <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-</a>
-  <a href="https://www.facebook.com/share/1Jgx1mYY9k/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-</a>
-</div>
-
-### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=flutter,dart,firebase,github,git&perline=5)](https://skillicons.dev)
-
-![Muhammad Safwan's GitHub stats](https://github-readme-stats.vercel.app/api?username=safwan119&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=safwan119&theme=dark)
-
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=42A5F5&center=true&vCenter=true&width=650&lines=Flutter+%26+Dart+Developer;Building+Cross-Platform+Mobile+Apps;Firebase+%26+REST+API+Integration;Turning+Ideas+Into+Real-World+Applications" alt="Typing SVG" />
 
 <br>
-⭐️ From [safwan119](https://github.com/safwan119)
+
+<p>
+  <a href="https://github.com/safwan119">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/muhammad-safwan-aa8356334/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://safwandevhub.netlify.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="mailto:safwanh124@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+</div>
+
+---
+
+## 👨‍💻 About Me
+
+I'm a **Flutter Developer** focused on building modern, responsive and scalable cross-platform mobile applications.
+
+* 📱 Building mobile applications with **Flutter & Dart**
+* 🔥 Working with **Firebase, Firestore, Authentication & FCM**
+* 🌐 Integrating **REST APIs & third-party services**
+* 💳 Experience with **Stripe & payment API integrations**
+* 🗺️ Working with **Google Maps & location-based features**
+* 🔔 Implementing **Push & Local Notifications**
+* 🧩 Experienced with multiple **state management solutions**
+* 🧠 Currently focusing on **Backend, API architecture & scalable applications**
+* 💬 Ask me about **Flutter, Dart, Firebase & REST APIs**
+
+---
+
+## 🛠️ Tech Stack
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android" />
+</p>
+
+### 🔥 Backend & Cloud
+
+<p>
+  <img src="https://skillicons.dev/icons?i=firebase" />
+</p>
+
+**Firebase • Firestore • Authentication • FCM • REST APIs**
+
+### 🧠 State Management
+
+`GetX` • `BLoC` • `Provider` • `Riverpod`
+
+### 🔗 Integrations
+
+`Google Maps` • `Stripe` • `Payment APIs` • `Push Notifications` • `QR Scanner` • `Third-Party APIs`
+
+### 🧰 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,androidstudio,vscode,postman" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 📱 QR Scanner & Generator
+
+A mobile application for scanning and generating QR codes with a clean and user-friendly interface.
+
+### 🏢 Hamari Society
+
+A society management application designed to manage society-related operations and services.
+
+### 🚌 Bus Tracking App
+
+A complete tracking solution consisting of **Passenger App, Driver App and Admin Dashboard**.
+
+### 📈 X-Cheing
+
+A trading marketplace application focused on buying, selling and marketplace-related functionality.
+
+
+---
+
+## 🎯 Current Focus
+
+```text
+Flutter Development       ████████████████████  Advanced
+Firebase & Firestore      ████████████████████  Advanced
+REST API Integration      ██████████████████░░  Advanced
+State Management          ██████████████████░░  Advanced
+Backend Development       ███████████████░░░░░  Growing
+App Architecture          ████████████████░░░░  Improving
+```
+
+> 🚀 Continuously learning and building real-world applications to improve my software engineering skills.
+
+
+
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com/?user=safwan119&theme=tokyonight" alt="Safwan's GitHub Streak" />
+
+</div>
+
+
+---
+
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://www.linkedin.com/in/muhammad-safwan-aa8356334/">
+<img src="https://img.shields.io/badge/LinkedIn-Muhammad%20Safwan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://safwandevhub.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Safwan%20DevHub-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white"/>
+</a>
+
+<a href="https://www.youtube.com/@safwan.coder119">
+<img src="https://img.shields.io/badge/YouTube-Safwan%20Coder-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/motivation_by_safwan?igsi=MWc4bHpzOXF0Y2dtZQ==">
+<img src="https://img.shields.io/badge/Instagram-Muhammad%20Safwan-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.facebook.com/share/1Jgx1mYY9k/">
+<img src="https://img.shields.io/badge/Facebook-Muhammad%20Safwan-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 💙 Thanks for visiting my profile!
+
+**⭐ Explore my repositories and feel free to connect with me.**
+
+<img src="https://komarev.com/ghpvc/?username=safwan119&label=Profile%20Views&color=42A5F5&style=flat" />
+
+</div>
