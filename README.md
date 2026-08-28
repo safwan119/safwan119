@@ -1,10 +1,99 @@
- <h1 align="center">Hi 👋, I'm Muhammad Safwan</h1>
+<h1 align="center">Hi 👋, I'm Muhammad Safwan</h1>
 
-- 🔭 I’m currently working on Flutter
-- 🌱 I’m currently learning Backend by working on real world project
-- 💬 Ask me anything about Flutter 
-- 📫 How to reach me: safwanh124@gmail.com
-- ⚡ Fun fact: I'm comming to teen
+<h3 align="center">Flutter Developer | Mobile App Developer</h3>
+
+<p align="center">
+  I build cross-platform mobile applications with Flutter and Dart, with experience in Firebase, REST APIs, backend integrations, authentication, payments, maps, notifications, and real-world application development.
+</p>
+
+
+### 👨‍💻 About Me
+
+* 📱 Flutter Developer focused on building cross-platform mobile applications
+* 🚀 Experienced in developing real-world applications using **Flutter & Dart**
+* 🔥 Working with **Firebase, Firestore, Firebase Authentication & FCM**
+* 🌐 Experienced in integrating **REST APIs and third-party services**
+* 💳 Worked with **payment integrations and API-based payment systems**
+* 🗺️ Experience with **Google Maps and location-based features**
+* 🔔 Worked with **push notifications and local notifications**
+* 🧠 Currently improving my **backend development, API architecture, and scalable app development** skills
+* 💬 Ask me about **Flutter, Dart, Firebase, REST APIs, and mobile app development**
+* 📫 Reach me at **[safwanh124@gmail.com](mailto:safwanh124@gmail.com)**
+
+
+### 🛠️ Tech Stack
+
+#### Mobile Development
+
+* Flutter
+* Dart
+* Android
+
+#### Backend & Cloud
+
+* Firebase
+* Cloud Firestore
+* Firebase Authentication
+* Firebase Cloud Messaging
+* REST APIs
+
+#### State Management
+
+* GetX
+* BLoC
+* Provider
+* Riverpod
+
+#### Integrations
+
+* Google Maps
+* Stripe
+* Push Notifications
+* QR Scanner & Generator
+* Payment APIs
+* Third-party APIs
+
+#### Tools
+
+* Git
+* GitHub
+* Android Studio
+* VS Code
+* Postman
+* Firebase Console
+
+
+### 🚀 Featured Projects
+
+* 📱 **QR Scanner & Generator** — QR scanning and generation mobile application
+* 🏢 **Hamari Society** — Society management application
+* 🚌 **Bus Tracking App** — Passenger, Driver and Admin-based tracking system
+* 📈 **X-Cheing** — Trading marketplace application
+* 💰 **Payment Integration Projects** — Applications involving Stripe and API-based payment systems
+
+
+### 📊 What I'm Currently Focusing On
+
+* Advanced Flutter architecture
+* Backend & API development
+* Firebase integrations
+* Clean and scalable application architecture
+* Real-world mobile application development
+* Improving problem-solving and software engineering skills
+
+
+
+### 🌐 Connect With Me
+
+* 💼 LinkedIn: [Muhammad Safwan](https://www.linkedin.com/in/muhammad-safwan-aa8356334/)
+* 🌐 Portfolio: [safwandevhub.netlify.app](https://safwandevhub.netlify.app/)
+* 📧 Email: **[safwanh124@gmail.com](mailto:safwanh124@gmail.com)**
+
+
+<p align="center">
+  ⭐ Feel free to explore my repositories and projects!
+</p>
+
   
 ### Connect with me:
 <div id="badges">
