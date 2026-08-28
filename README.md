@@ -160,6 +160,4 @@ App Architecture          ████████████████░░
 
 **⭐ Explore my repositories and feel free to connect with me.**
 
-<img src="https://komarev.com/ghpvc/?username=safwan119&label=Profile%20Views&color=42A5F5&style=flat" />
-
 </div>
