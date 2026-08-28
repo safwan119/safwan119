@@ -119,7 +119,7 @@ App Architecture          ████████████████░░
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=safwan119&theme=tokyonight" alt="Safwan's GitHub Streak" />
+<img src="https://streak-stats.demolab.com/?user=safwan119&theme=orange" alt="Safwan's GitHub Streak" />
 
 </div>
 
