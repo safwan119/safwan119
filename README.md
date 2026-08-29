@@ -93,7 +93,7 @@ A complete tracking solution consisting of **Passenger App, Driver App and Admin
 
 A trading marketplace application focused on buying, selling and marketplace-related functionality.
 
-### 📈 Chattrix — Real-Time Messaging App
+### 💬 Chattrix — Real-Time Messaging App
 
 Chattrix is a WhatsApp-inspired messaging app featuring real-time conversations, user authentication, media sharing, and a clean, responsive chat experience.
 
